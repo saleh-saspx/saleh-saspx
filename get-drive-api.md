@@ -1,4 +1,4 @@
-# Setup a Laravel Storage driver with Google Drive API
+# Setup Google Drive API
 
 Log in to your Google Account and go to this website:
 
