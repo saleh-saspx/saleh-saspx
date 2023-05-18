@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saleh-saspx
-- Tech Lead & Expert Developer 🇮🇷🇺🇸
+- Developer 🇮🇷🇺🇸
 - UI / UX Designer 🇮🇷
 - Product Analyst & Management 🇳🇿
 - Make Your Dreams
