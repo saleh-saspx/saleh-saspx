@@ -6,6 +6,7 @@
 - Python
 - Flask
 - FastApi
+- Go !
 - Javascript
 -  VueJs
 -  ReactJs
