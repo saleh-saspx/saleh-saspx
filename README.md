@@ -4,12 +4,12 @@ I'm M.Saleh Feyzi ![](https://user-images.githubusercontent.com/18350557/1763097
 Full-stack Developer 🇮🇷
 -------------------------
 
-I am a skilled programmer and developer with a strong expertise in the PHP language, Laravel development framework, and related technologies, boasting seven years of experience in PHP. Additionally, I possess a relative familiarity with the Python And Golang language and have successfully executed various projects over a span of two years. My professional interests extend to exploring and actively participating in various fields and staying up-to-date with emerging technologies. One of my key areas of focus involves working on monitoring and large-scale computational projects, including seismic detection and alert systems.
+I am a skilled programmer and developer with a strong expertise in the PHP language, Laravel development framework, and related technologies
 
 * 🌍  I'm based in Iran 🇮🇷
 * ✉️  You can contact me at [saleh.faezy77@gmail.com](mailto:saleh.faezy77@gmail.com)
 * 🧠  I'm learning Go & Server Base Apps
-* ⚡  PHP - Python - Go - Javascript - Server Management
+* ⚡  PHP - Python - Go - Javascript - Server Management - DevOps
 
 <a href="https://www.github.com/saleh-saspx" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/saleh-saspx?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/faezy77" target="_blank" rel="noreferrer"><img
