@@ -4,12 +4,12 @@ I'm M.Saleh Feyzi ![](https://user-images.githubusercontent.com/18350557/1763097
 Full-stack Developer 🇮🇷
 -------------------------
 
-I am a skilled programmer and developer with a strong expertise in the PHP language, Laravel development framework, and related technologies
+I am a programmer and developer with a strong expertise in the PHP language, Laravel development framework, and related technologies
 
 * 🌍  I'm based in Iran 🇮🇷
 * ✉️  You can contact me at [saleh.faezy77@gmail.com](mailto:saleh.faezy77@gmail.com)
-* 🧠  I'm learning Go & Server Base Apps
-* ⚡  PHP - Python - Go - Javascript - Server Management - DevOps
+* 🧠  I'm learning 
+* ⚡  PHP - Python - Go - Javascript - DevOps
 
 <a href="https://www.github.com/saleh-saspx" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/saleh-saspx?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/faezy77" target="_blank" rel="noreferrer"><img
